@@ -31,4 +31,3 @@ The Elevator Simulation System allows users to simulate the movement of agents w
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/.NET-BaseArea51.git
-   cd elevator-simulation
