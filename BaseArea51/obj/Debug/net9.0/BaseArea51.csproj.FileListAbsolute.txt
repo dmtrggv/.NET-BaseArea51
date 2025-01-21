@@ -1,0 +1,14 @@
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\bin\Debug\net9.0\BaseArea51.exe
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\bin\Debug\net9.0\BaseArea51.deps.json
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\bin\Debug\net9.0\BaseArea51.runtimeconfig.json
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\bin\Debug\net9.0\BaseArea51.dll
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\bin\Debug\net9.0\BaseArea51.pdb
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.AssemblyInfoInputs.cache
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.AssemblyInfo.cs
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.csproj.CoreCompileInputs.cache
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.dll
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\refint\BaseArea51.dll
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.pdb
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\BaseArea51.genruntimeconfig.cache
+C:\Users\dmtrk\RiderProjects\BaseArea51\BaseArea51\obj\Debug\net9.0\ref\BaseArea51.dll
